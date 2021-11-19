@@ -50,7 +50,7 @@ def welcome():
     )
 
 
-# Precipitation rount
+# Precipitation route
 
 @ app.route("/api/v1.0/precipitation")
 def precipitation():
